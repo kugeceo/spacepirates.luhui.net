@@ -3,7 +3,7 @@
 
 http://spacepirates.luhui.net
 
-![展示](SpacePirate.jpg)
+![展示](https://spacepirates.luhui.net/SpacePirate.jpg)
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d72ed72-c956-4468-8b36-60d544c8a91d/deploy-status)](https://app.netlify.com/sites/taikonghaidao/deploys)
