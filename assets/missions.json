@@ -1,5 +1,5 @@
 [
-{"name":"Solo", "description":"Fly solo in this first mission\nto discover the basics of the game.",
+{"name":"单独", "description":"在第一个任务中独自飞行\n 了解游戏的基本知识.",
     "gameDefinition":{
         "seed" : 20220303,
         "asteroidCount" : 20,
@@ -18,7 +18,7 @@
         "enemyBoundaryRadius": 400,
         "humanBoundaryRadius": 800}
     },
-{"name":"Squad", "description":"You now have wingmates,\nbut also more enemies.",
+{"name":"小队", "description":"你现在有了队友,\n但也有更多的敌人.",
     "gameDefinition":{
         "seed" : 20220304,
         "asteroidCount" : 30,
@@ -37,7 +37,7 @@
         "enemyBoundaryRadius": 400,
         "humanBoundaryRadius": 800}
     },
-{"name":"Battle", "description":"Are you ready for a full\n space battle?",
+{"name":"对战", "description":"你准备好进行一场完整的\n太空战了吗?",
     "gameDefinition":{
         "seed" : 20220305,
         "asteroidCount" : 100,
